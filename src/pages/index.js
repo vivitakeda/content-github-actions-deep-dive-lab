@@ -21,7 +21,7 @@ const IndexPage = () => {
           </h1>
 
           <h4 className='title'>
-            Launch Date Announced</code>
+            Launch Date Announced !!!
           </h4>
 
 
