@@ -11,15 +11,19 @@ const IndexPage = () => {
         <title>Cloud Coffee</title>
         <meta name="description" content="Bringing Coffee to the Cloud" />
       </header>
-      
+
       <main className='main'>
-        
+
 
           <h1 className='title'>
             Welcome to{' '}
             <code className='title_code'>Cloud Coffee</code>
           </h1>
-      
+
+          <h4 className='title'>
+            Launch Date Announced</code>
+          </h4>
+
 
           <p className='description'>
             Join Our Mailing List!
@@ -41,7 +45,7 @@ const IndexPage = () => {
           </footer>
       </main>
 
-      
+
     </Layout>
   )
 }
